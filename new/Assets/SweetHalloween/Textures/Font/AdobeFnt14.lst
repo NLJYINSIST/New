@@ -1,0 +1,118 @@
+%!Adobe-FontList 1.14
+%Locale:0x42a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\goonies.fnt
+FileModTime:1431549632
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\goonies.fnt.meta
+FileModTime:1431583564
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Goonies-Regular
+FamilyName:Goonies
+StyleName:Regular
+FullName:Goonies
+MenuName:Goonies
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\Goonies.ttf
+DataFormat:sfntData
+FileLength:34396
+FileModTime:1431549522
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\Goonies.ttf.meta
+FileModTime:1431583568
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\goonies_0.png
+FileModTime:1431549694
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\goonies_0.png.meta
+FileModTime:1431583546
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaInseratCyr-Upright
+FamilyName:HelveticaInseratCyr Upright
+StyleName:Regular
+FullName:Helvetica Inserat Cyrillic Upright
+MenuName:HelveticaInseratCyr Upright
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\Helvetica Inserat Cyrillic Upright.ttf
+DataFormat:sfntData
+FileLength:66476
+FileModTime:1431549716
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\Helvetica Inserat Cyrillic Upright.ttf.meta
+FileModTime:1431583570
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\helvetica.fnt
+FileModTime:1431549692
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\helvetica.fnt.meta
+FileModTime:1431583564
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\helvetica_0.png
+FileModTime:1431549704
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\helvetica_0.png.meta
+FileModTime:1431583548
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\ABCT36\Work\Unity Maker\PirateKings\Assets\SweetHalloween\Textures\Font\Thumbs.db
+FileModTime:1431690416
+%EndFont
+
